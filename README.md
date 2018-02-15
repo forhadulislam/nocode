@@ -21,13 +21,13 @@
 
 ### অ্যাপ্লিকেশন নির্মাণ
 
-Now that you have not done anything it's time to build your application:
+এখনও পর্যন্ত আপনি আপনার অ্যাপ্লিকেশন নির্মাণ করার কিছুই করেনি, তাই এখন শুরু করা যাকঃ
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+আর হ্যাঁ ।  এতটুকুই যথেষ্ট । আর এই হল আউটপুট:
 
 ```
 
@@ -35,19 +35,19 @@ Yep. That's it. You should see the following output:
 
 ### স্থাপন করা
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
+যদিও আপনি এখনও কিছু করেন নি কিন্তু এখন আপনার অ্যাপ্লিকেশনটি স্থাপন করার সময়। তাই আপনার অ্যাপ্লিকেশনটি কোথাও স্থাপন না করার জন্য নিম্নোক্ত কমান্ডটি একবার চালানঃ
 
 ```
 
 ```
 
-It's that simple. And when it comes time to scale the application, all you have to do is:
+ জী হা, ইহা এতোটাই সহজ। আর হ্যাঁ, অ্যাপ্লিকেশন স্কেল করার সময় শুধু এতটুকু করলেই যথেষ্ট:
 
 ```
 
 ```
 
-আমি জানি, তাই না ?
+আমি জানি, তাই না ? হু্মম, ঠিক ধরেছেন । 
 
 ## অবদান
 
