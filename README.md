@@ -11,13 +11,13 @@
 
 ```
 
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+এটা শুধু একটি উদাহরণ অ্যাপ্লিকেশন, কিন্তু কল্পনা করুন যে এটি দিয়ে আপনি কিছু করতে চান । নতুন বৈশিষ্ট্য যোগ করাও অনেক সহজ:
 
 ```
 
 ```
 
-The possibilities are endless.
+এখানে রয়েছে সীমাহীন সম্ভাবনা ।
 
 ### অ্যাপ্লিকেশন নির্মাণ
 
@@ -47,8 +47,8 @@ It's that simple. And when it comes time to scale the application, all you have 
 
 ```
 
-I know right?
+আমি জানি, তাই না ?
 
-## Contributing
+## অবদান
 
-You don't.
+করার দরকার নেই । যথেষ্ট হয়েছে 
